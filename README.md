@@ -43,6 +43,60 @@ The dashboard transforms raw transactional data into actionable insights to supp
 - Customer data: Age, Gender, Tenure
 - Transaction data: Product ID, Basket Date, Basket Count
 
+**📸 Dashboard Visuals & Insights**
 
+**👤 Customer Analysis**
+
+**📊 Age Group Distribution**
+Shows how customers are distributed across different age groups, helping identify the dominant customer segment driving overall activity.
+
+
+
+**⚧ Gender Split (Pie Chart)**
+Represents the proportion of male and female customers, enabling demographic-level understanding for targeted business strategies.
+
+
+
+**📅 Tenure Analysis (Column Chart)**
+Displays customer tenure distribution, highlighting whether the business is driven more by new or long-term customers.
+
+
+**🛒 Basket Analysis**
+
+**📊 Total Baskets (KPI Card)**
+Represents total transaction volume, giving a quick overview of overall customer activity.
+
+
+
+
+**📈 Baskets Over Time (Line Chart)**
+Tracks transaction trends over time and highlights fluctuations, spikes, and possible seasonal behavior patterns.
+
+
+
+**📦 Top 10 Products (Bar Chart)**
+Identifies the most frequently purchased products, helping understand high-demand items and product concentration.
+
+
+
+
+**📊 Key Insights**
+- A small segment of customers contributes to a large portion of transactions (Pareto behavior observed)
+- Purchase activity shows clear time-based fluctuations and peak periods
+- Product demand is concentrated among a limited set of top-performing items
+- Customer distribution varies significantly across age groups and tenure levels
+
+**💡 Business Impact**
+This dashboard enables businesses to:
+- Identify high-value and repeat customers
+- Understand customer behavior patterns
+- Optimize product and inventory strategy
+- Detect seasonal demand trends
+- Support data-driven marketing decisions
+
+
+**👩‍💻 Author**
+Laxmi Rushaali Kuravi
+Aspiring Data Analyst | Business Intelligence & Data Visualization Enthusiast
 
 
