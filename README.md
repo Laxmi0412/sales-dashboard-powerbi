@@ -1,78 +1,48 @@
+**📊 Customer Behavior & Sales Analytics Dashboard (Power BI)**
 
-# 📊 Customer Behavior & Sales Analytics Dashboard (Power BI)
+**🚀 Project Overview**
 
-## 🚀 Project Overview
-This project is an interactive Power BI dashboard built to analyze customer behavior, purchase frequency, and product trends using an e-commerce dataset.
+This project is an interactive Power BI dashboard designed to analyze customer behavior, purchase patterns, and product performance using an e-commerce dataset.
 
-The goal is to understand customer activity patterns, product performance, and time-based purchasing behavior to support data-driven business decisions.
+The dashboard transforms raw transactional data into actionable insights to support business decisions related to customer segmentation, product strategy, and time-based demand trends.
 
----
 
-## 🎯 Key Features
+**🎯 Key Features**
 
-- 👤 Customer Analysis
-  - Age, gender, and tenure insights
-  - Customer segmentation based on activity
+**👤 Customer Analysis**
+- Age group distribution of customers
+- Gender-based customer segmentation
+- Customer tenure analysis
 
-- 🛒 Purchase Behavior Analysis
-  - Transaction frequency tracking
-  - Repeat purchase patterns
+**🛒 Purchase Behavior Analysis**
+- Total basket (transaction) activity
+- Repeat purchase behavior patterns
+- Transaction frequency insights
 
-- 📈 Time-Based Trends
-  - Purchase trends over time
-  - Peak activity periods
+**📈 Time-Based Trends**
+- Basket activity over time
+- Identification of peak purchasing periods
 
-- 📦 Product Insights
-  - Top products by purchase frequency
-  - Product contribution analysis
+**📦 Product Insights**
+- Top 10 performing products
+- Product-level demand analysis
 
-- 🔍 Interactive Filters
-  - Filter by age, gender, and time period
+**🔍 Interactive Filters**
+- Age group filter
+- Gender filter
+- Product-level filtering
+- Time-based filtering
 
----
-
-## 🛠️ Tools Used
-
+**🛠️ Tools Used**
 - Power BI Desktop
-- Power Query (Data Cleaning)
-- DAX (Data Modeling & Measures)
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Modeling & Calculations)
 - Excel / CSV Dataset
 
----
+**📂 Dataset Overview**
+- Customer data: Age, Gender, Tenure
+- Transaction data: Product ID, Basket Date, Basket Count
 
-## 📂 Dataset Information
 
-- Customer details (age, gender, tenure)
-- Transaction records (product_id, basket_date, basket_count)
 
----
 
-## 📊 Key Insights
-
-- Identified high-frequency customers contributing to majority of transactions
-- Discovered peak purchasing periods across time
-- Analyzed product-level repeat purchase behavior
-- Segmented customers based on activity patterns
-
----
-
-## 💡 Business Impact
-
-This dashboard helps businesses:
-- Understand customer purchasing behavior
-- Identify loyal and high-value customers
-- Optimize product and marketing strategies
-- Improve decision-making using data insights
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
-
----
-
-## 👩‍💻 Author
-
-**Laxmi Rushaali Kuravi**  
-Aspiring Data Analyst | BI & Analytics Enthusiast
