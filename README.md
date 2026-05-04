@@ -87,6 +87,7 @@ Identifies the most frequently purchased products, helping understand high-deman
 - Product demand is concentrated among a limited set of top-performing items
 - Customer distribution varies significantly across age groups and tenure levels
 
+
 **💡 Business Impact**
 This dashboard enables businesses to:
 - Identify high-value and repeat customers
